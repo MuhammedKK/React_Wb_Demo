@@ -1,0 +1,13 @@
+footer {
+    padding:2rem;
+    background-color: #242424;
+    color: #fff;
+    text-align: center;
+}
+
+footer .footer-copyright {
+    padding:1rem;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 1.9;
+}
