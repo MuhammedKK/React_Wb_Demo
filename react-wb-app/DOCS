@@ -1,0 +1,9 @@
+** This File TO Document Every Thing In This Proj
+
+/* Init The Enviroment */
+    - Install React & It's Packages
+    - Remove Unused Files From Proj
+    - Customise Index & App File
+    - Create Components File
+    - Components File Contains :
+        - NavBar Comp 
